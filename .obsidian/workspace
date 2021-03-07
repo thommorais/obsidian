@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "e23506e6467bd9bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "1922812b9b4f0f02",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52913f9fc425426d",
+    "type": "split",
+    "children": [
+      {
+        "id": "924d973f0c524511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8b7911b5b73989b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8cb9b1466d822127",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#todo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c9d6c9bfedb403f",
+    "type": "split",
+    "children": [
+      {
+        "id": "28ab7c5fc64b200d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f977792518499db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a44cb748c24883b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea8f63459cbdfe90",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "ff7f9708eb1e6d97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a003fdc66c4298d",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "Learning Golang/1 - Overall.md",
+    "Personal/2021-03-06.md",
+    "Untitled.md",
+    "Personal/weight.md",
+    "2021-03-06.md",
+    "Day Planners/Day Planner-20210306.md",
+    "Projects/App Nutry.md",
+    "x-templates/templates.md",
+    "Day Planners/Day Planner-20210305.md",
+    "Day Planners/2021-03-05.md"
+  ]
+}
