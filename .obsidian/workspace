@@ -37,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "tag:#day",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "id": "ea8f63459cbdfe90",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "empty",
               "state": {}
             }
           }
@@ -101,7 +102,7 @@
             "id": "7a003fdc66c4298d",
             "type": "leaf",
             "state": {
-              "type": "todo",
+              "type": "empty",
               "state": {}
             }
           }
