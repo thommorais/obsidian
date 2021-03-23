@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Learning/technical writting.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -46,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -67,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/technical writting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,48 +83,28 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "ea8f63459cbdfe90",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "state": {
+                "file": "Learning/technical writting.md"
+              }
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "ff7f9708eb1e6d97",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7a003fdc66c4298d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "lastOpenFiles": [
+    "Learning/Untitled.md",
+    "Untitled.md",
+    "Projects/App nutry/App Nutry.md",
+    "Projects/App nutry/Screen Shot 2021-03-06 at 00.26.11.png",
+    "Projects/eficiencia-hospitalista.md",
+    "🗄 files/Screenshot 2021-03-20 at 19.26.26.png",
     "Learning Golang/1 - Overall.md",
     "Personal/2021-03-06.md",
-    "Untitled.md",
     "Personal/weight.md",
-    "2021-03-06.md",
-    "Day Planners/Day Planner-20210306.md",
-    "Projects/App Nutry.md",
-    "x-templates/templates.md",
-    "Day Planners/Day Planner-20210305.md",
-    "Day Planners/2021-03-05.md"
+    "2021-03-06.md"
   ]
 }
